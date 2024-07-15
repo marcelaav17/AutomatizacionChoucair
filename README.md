@@ -4,6 +4,7 @@ Este repositorio contiene el proyecto de automatización de pruebas para el siti
 Estructura del Proyecto
 
 src/main/java
+
 co.com.choucair.certification.proyectobase: Este paquete contiene las clases principales del proyecto. Incluye:
   models: Contiene la clase Datos utilizada en las pruebas con sus respectivos métodos get y set.
   questions: Contiene clases que permiten verificar ciertas condiciones en la aplicación:

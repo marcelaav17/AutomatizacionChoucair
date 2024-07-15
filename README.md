@@ -5,7 +5,7 @@ Estructura del Proyecto
 
 src/main/java
 
-co.com.choucair.certification.proyectobase: Este paquete contiene las clases principales del proyecto. Incluye:
+co.com.choucair.automation: Este paquete contiene las clases principales del proyecto. Incluye:
 
  models: Contiene la clase Datos utilizada en las pruebas con sus respectivos métodos get y set.
 
